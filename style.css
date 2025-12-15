@@ -1,0 +1,22 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+}
+
+.status {
+    color: gray;
+}
+
+.status.active {
+    color: green;
+    font-weight: bold;
+}
+
+.failed {
+    color: red;
+}
+
+.passed {
+    color: green;
+}
+
